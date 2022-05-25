@@ -96,3 +96,9 @@ i{
     justify-content: space-between;
     align-items: center;
 }
+
+
+.my-tag{
+    text-align: center;
+    font-weight: bold;
+}
